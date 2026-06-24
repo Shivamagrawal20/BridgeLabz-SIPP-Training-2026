@@ -18,3 +18,5 @@ access returntype name(){
 
 }
 
+Interface to class can not tke on 
+Class to interface can be taken on 
