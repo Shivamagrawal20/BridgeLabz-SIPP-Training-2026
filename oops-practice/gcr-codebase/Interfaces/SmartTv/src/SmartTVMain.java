@@ -19,7 +19,6 @@ public class SmartTVMain {
         };
 
         System.out.println("===== Subscription Details =====");
-
         tv.showSubscriptionDetails();
 
         System.out.println("\n===== Movies =====");
