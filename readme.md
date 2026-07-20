@@ -131,3 +131,5 @@ File not found
 What is Object ?
 
             
+**BridzeLabz Traning**
+This repo contains SIPP Practise

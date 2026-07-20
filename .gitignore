@@ -2,3 +2,34 @@
 out/
 *.iml
 *.class
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# Build output
+out/
+target/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Maven
+.mvn/
+
+# Gradle
+.gradle/
+
+# VS Code
+.vscode/
