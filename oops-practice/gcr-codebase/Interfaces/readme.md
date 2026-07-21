@@ -1,0 +1,3 @@
+obj
+constructor
+type-jobstation

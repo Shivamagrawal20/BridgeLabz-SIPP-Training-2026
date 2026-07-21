@@ -1,3 +1,25 @@
+**OOPS-PRACTISE**
+*OOP Fundmentals:*
+Class,Object,Constructor,this keyword,static vs instance,access modifiers
+
+
+**Constructors**
+-> Method without return type
+-> Function with a special name with a same name of class 
+-> It has 4 types - paramarterizsed , non paramarterized , Default , Move 
+
+access Classname(){   //Function a special one
+
+}
+
+
+
+access returntype name(){
+
+}
+
+Interface to class can not tke on 
+Class to interface can be taken on 
 **string constant pool:-** inside heap there lies a constant pool 
 If an object is presnt with one name then of same name a another string cant be created
 heap area -> literal area

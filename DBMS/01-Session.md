@@ -1,0 +1,1 @@
+Discussed what are dmbs and its core concepts 
